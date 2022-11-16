@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213783135740",
+    "project_id": "evangelization-app",
+    "storage_bucket": "evangelization-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213783135740:android:ea23cf8ac1096318fc9e79",
+        "android_client_info": {
+          "package_name": "com.example.evangelizationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213783135740-hj0nu303pstptcuomh55ie2h00m0kbeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAemilcVdR6aZS6MQHMd6e_1ehBfEltXSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213783135740-hj0nu303pstptcuomh55ie2h00m0kbeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
